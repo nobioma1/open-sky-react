@@ -5,7 +5,7 @@ export const loginStyles = makeStyles(theme => ({
     height: '100vh',
   },
   image: {
-    backgroundImage: 'url(./airport.jpg)',
+    backgroundImage: 'url(./images/airport.jpg)',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
     backgroundPosition: 'center',

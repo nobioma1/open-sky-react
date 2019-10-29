@@ -13,4 +13,8 @@ export const cardStyles = makeStyles(theme => ({
   card: {
     cursor: 'pointer',
   },
+  media: {
+    height: 0,
+    paddingTop: '56.25%',
+  },
 }));
